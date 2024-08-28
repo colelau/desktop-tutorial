@@ -1,5 +1,9 @@
-# Welcome to GitHub Desktop!
+# Exercise 01a: Install Software
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+## My name is:
+Lauren Cole
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## My github username is:
+colelau
+
+## I have installed the software on my computer as a part of the exercise
